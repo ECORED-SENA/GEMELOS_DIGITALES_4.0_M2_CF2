@@ -1,8 +1,8 @@
-# **sena-base-2021 v4.2.0**
+# **Modelado de superficies 3D en forma libre**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED-BASE-2021](https://ecored-sena.github.io/ECORED-BASE-2021)
+[https://ecored-sena.github.io/GEMELOS_DIGITALES_4.0_M2_CF2/](https://ecored-sena.github.io/GEMELOS_DIGITALES_4.0_M2_CF2/)
 
 #
 
