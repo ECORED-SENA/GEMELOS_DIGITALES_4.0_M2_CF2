@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="990" height="155" viewBox="0 0 990 155">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#636363"/>
+      <stop offset="0.517" stop-color="#0f1027"/>
+      <stop offset="1" stop-color="#0f1027"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_126963" data-name="Grupo 126963" transform="translate(-236 -1356.129)">
+    <rect id="Rectángulo_36025" data-name="Rectángulo 36025" width="990" height="155" rx="10" transform="translate(236 1356.129)" fill="url(#linear-gradient)"/>
+    <g id="Grupo_124900" data-name="Grupo 124900" transform="translate(915.534 1456.129)">
+      <g id="Grupo_118501" data-name="Grupo 118501" transform="translate(0 16.965)">
+        <g id="Grupo_118415" data-name="Grupo 118415">
+          <line id="Línea_1604" data-name="Línea 1604" x1="17.444" y2="17.444" fill="none" stroke="#d8d9da" stroke-miterlimit="10" stroke-width="0.78"/>
+          <line id="Línea_1605" data-name="Línea 1605" x1="17.444" y2="17.444" transform="translate(8.499)" fill="none" stroke="#d8d9da" stroke-miterlimit="10" stroke-width="0.78"/>
+          <line id="Línea_1606" data-name="Línea 1606" x1="17.444" y2="17.444" transform="translate(16.997)" fill="none" stroke="#d8d9da" stroke-miterlimit="10" stroke-width="0.78"/>
+          <line id="Línea_1607" data-name="Línea 1607" x1="17.444" y2="17.444" transform="translate(25.496)" fill="none" stroke="#d8d9da" stroke-miterlimit="10" stroke-width="0.78"/>
+          <line id="Línea_1608" data-name="Línea 1608" x1="17.444" y2="17.444" transform="translate(33.994)" fill="none" stroke="#d8d9da" stroke-miterlimit="10" stroke-width="0.78"/>
+          <line id="Línea_1609" data-name="Línea 1609" x1="17.444" y2="17.444" transform="translate(42.493)" fill="none" stroke="#d8d9da" stroke-miterlimit="10" stroke-width="0.78"/>
+          <line id="Línea_1610" data-name="Línea 1610" x1="17.444" y2="17.444" transform="translate(50.991)" fill="none" stroke="#d8d9da" stroke-miterlimit="10" stroke-width="0.78"/>
+          <line id="Línea_1611" data-name="Línea 1611" x1="17.444" y2="17.444" transform="translate(59.49)" fill="none" stroke="#d8d9da" stroke-miterlimit="10" stroke-width="0.78"/>
+          <line id="Línea_1612" data-name="Línea 1612" x1="17.444" y2="17.444" transform="translate(67.988)" fill="none" stroke="#d8d9da" stroke-miterlimit="10" stroke-width="0.78"/>
+          <line id="Línea_1613" data-name="Línea 1613" x1="17.444" y2="17.444" transform="translate(76.487)" fill="none" stroke="#d8d9da" stroke-miterlimit="10" stroke-width="0.78"/>
+          <line id="Línea_1614" data-name="Línea 1614" x1="17.444" y2="17.444" transform="translate(84.985)" fill="none" stroke="#d8d9da" stroke-miterlimit="10" stroke-width="0.78"/>
+          <line id="Línea_1615" data-name="Línea 1615" x1="17.444" y2="17.444" transform="translate(93.484)" fill="none" stroke="#d8d9da" stroke-miterlimit="10" stroke-width="0.78"/>
+          <line id="Línea_1616" data-name="Línea 1616" x1="17.444" y2="17.444" transform="translate(101.982)" fill="none" stroke="#d8d9da" stroke-miterlimit="10" stroke-width="0.78"/>
+        </g>
+      </g>
+      <rect id="Rectángulo_35460" data-name="Rectángulo 35460" width="76.934" height="6.452" fill="#21999a"/>
+      <rect id="Rectángulo_35461" data-name="Rectángulo 35461" width="32.073" height="6.452" transform="translate(87.354)" fill="#fdfdfd"/>
+    </g>
+  </g>
+</svg>
