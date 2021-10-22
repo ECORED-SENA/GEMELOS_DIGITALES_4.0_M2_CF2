@@ -140,7 +140,7 @@
                 .row.justify-content-center.mb-4
                   .col-lg-9
                     .titulo-sexto.color-acento-contenido
-                      h5 #[span.txt-deco2 Figura 6.] Spline studio
+                      h5 #[span.txt-deco2 Figura 7.] Spline studio
                     figure
                       img(src='@/assets/curso/img10.png', style="width: 1200px").m-auto
                       figcaption.mt-3.bg-color5 #[b Nota.] Adaptada del sistema CAD NX 12.
@@ -159,7 +159,7 @@
                 .row.justify-content-center.mb-4
                   .col-lg-9
                     .titulo-sexto.color-acento-contenido
-                      h5 #[span.txt-deco2 Figura 6.] Curva sobre superficie
+                      h5 #[span.txt-deco2 Figura 8.] Curva sobre superficie
                     figure
                       img(src='@/assets/curso/img11.png', style="width: 1200px").m-auto
                       figcaption.mt-3.bg-color5 #[b Nota.] Adaptada del sistema CAD NX 12.
