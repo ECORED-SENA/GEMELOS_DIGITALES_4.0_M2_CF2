@@ -18,7 +18,7 @@
             iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         .row.align-items-center(data-aos="slide-right")
           .col-10.bg-color3
-            p.mb-0 En la creación de figuras geométricas en 3D, se hacen necesarios los comandos que aportan diferentes funciones y permiten su desarrollo; de esta manera, en las siguientes pestañas se relacionan los que son utilizados, su descripción y la imagen de cómo se representan.
+            p.mb-0 En la creación completa de un producto, intervienen diferentes elementos que aportan a sus características y a sus atributos. En este espacio, podrá encontrar de manera precisa los que se utilizan para su implementación.
           .col-2
             figure
               img(src='@/assets/curso/img2.svg').img-position1

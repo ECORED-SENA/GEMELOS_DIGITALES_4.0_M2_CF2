@@ -67,7 +67,7 @@
             figure(data-aos="fade-left")
               img(src='@/assets/curso/img23.png', style="width: 500px").m-auto
           .col-lg-6
-            p.mb-4 #[b #[span.txt-deco2 El grupo de superficie]] contiene #[b los comandos para creación de superficies en forma libre], entre las que se destacan: #[b #[span.txt-deco1 Realize Shape], superficie de estudio, curva de paso, barrido y redondeos]. En la siguiente infografía, se presenta cómo son los comandos de superficie.
+            p.mb-4 #[b #[span.txt-deco2 El grupo de superficie]] contiene #[b los comandos para creación de superficies en forma libre], entre las que se destacan: #[b #[span.txt-deco1 #[i Realize Shape]], superficie de estudio, curva de paso, barrido y redondeos]. En la siguiente infografía, se presenta cómo son los comandos de superficie.
             .row.justify-content-center.mb-5(data-aos="fade-right")
               .col-lg-10
                 .titulo-sexto.color-acento-contenido
@@ -79,9 +79,9 @@
           .video
             iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         separador.mb-5
-        #t_2_2
+        #t_2_3
         .titulo-segundo
-          h2 2.2 Comandos de superficie
+          h2 2.3 Operaciones con superficies
         .row.align-items-center.mb-5
           .col-lg-6.mb-4.mb-lg-0
             p.mb-4 Mediante este grupo de comandos, se permite realizar acciones como modificar y ajustar la geometría existente. Aquí se encuentran herramientas como: superficie desplazada, recortar lámina, extender lámina, coser y combinar superficie, entre otras. Estas se presentan como se anexa en la Figura 20.
@@ -95,6 +95,7 @@
           .col-lg-6
             figure(data-aos="fade-left")
               img(src='@/assets/curso/img25.png', style="width: 500px").m-auto
+        p.mb-5 En la siguiente presentación, se describe cada una de ellas y su uso.
         figure.mb-5
           .video
             iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)

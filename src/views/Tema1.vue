@@ -16,7 +16,7 @@
                 img(src='@/assets/curso/img2.png', style="width: 320px").m-auto
             .col-lg-8
               .bloque-texto-a__texto.p-4
-                p.mb-0 Como base para la #[b #[span.txt-deco1 construcción de superficies en 3D]], se considera como información geométrica la #[b #[span.txt-deco2 creación de curvas]], cuya aplicación contiene los #[b comandos para crear geometrías en 3D, como: puntos, líneas, arcos, spline, hélices, curvas sobre superficies y herramientas para editar geometría existente], tales como:
+                p.mb-0 Como base para la #[b #[span.txt-deco1 construcción de superficies en 3D]], se considera como información geométrica la #[b #[span.txt-deco2 creación de curvas]], cuya aplicación contiene los #[b comandos para crear geometrías en 3D, como: puntos, líneas, arcos, #[i spline], hélices, curvas sobre superficies y herramientas para editar geometría existente], tales como:
         .row.justify-content-center.mb-5
           .col-lg-10(data-aos="fade-left")
             figure
@@ -51,16 +51,16 @@
             figure
               img(src='@/assets/curso/img5.png').img-position2
           .col-10.bg-color6
-            p.mb-0 En la #[span.txt-deco2 creación completa de un producto], intervienen diferentes elementos que aportan a sus características y a sus atributos. #[i En este espacio, podrá encontrar de manera precisa los que se utilizan para su #[span.txt-deco1 implementación]].
+            p.mb-0 #[b #[span.txt-deco2 En la creación de figuras geométricas en 3D]], se hacen necesarios los comandos que aportan diferentes funciones y permiten su desarrollo; de esta manera, en las siguientes pestañas se relacionan los que son utilizados, su descripción y la imagen de cómo se representan.
         TabsA.color-acento-botones
           .tarjeta.color-acento-botones--borde.p-4(titulo="Comandos de curvas")
             .row
               .col-12
                 .row
-                  .col-4
+                  .col-8.col-lg-5
                     h4.text-center.text-white.txt-deco3 #[b Comandos de curvas]
                   .col-12
-                    p.mb-4 Este grupo contiene las herramientas para creación de formas geométricas en 3D, como: punto, línea, arco/círculo, spline, hélice, texto y curva sobre superficie.
+                    p.mb-4 Este grupo contiene las herramientas para creación de formas geométricas en 3D, como: punto, línea, arco/círculo, #[i spline], hélice, texto y curva sobre superficie.
                 .row.justify-content-center.mb-4
                   .col-lg-9
                     .titulo-sexto.color-acento-contenido
@@ -76,10 +76,10 @@
             .row
               .col-12
                 .row
-                  .col-4
+                  .col-8.col-lg-5
                     h4.text-center.text-white.txt-deco3 #[b Punto]
                   .col-12
-                    p.mb-4 A través de este comando, se pueden generar puntos en el espacio en forma libre, de acuerdo con la ubicación del cursor o a partir de geometría existente, de acuerdo con las opciones que se muestran el cuadro de diálogo.
+                    p.mb-4 A través de este comando, se pueden generar puntos en el espacio en forma libre, de acuerdo con la ubicación del cursor o a partir de geometría existente, de acuerdo con las opciones que se muestran en el cuadro de diálogo.
                 .row.justify-content-center.mb-4
                   .col-lg-9
                     .titulo-sexto.color-acento-contenido
@@ -95,7 +95,7 @@
             .row
               .col-12
                 .row
-                  .col-4
+                  .col-8.col-lg-5
                     h4.text-center.text-white.txt-deco3 #[b Línea]
                   .col-12
                     p.mb-4 Esta herramienta crea segmentos de línea en 3D en forma libre o a partir de geometría existente.
@@ -114,7 +114,7 @@
             .row
               .col-12
                 .row
-                  .col-4
+                  .col-8.col-lg-5
                     h4.text-center.text-white.txt-deco3 #[b Arco/círculo]
                   .col-12
                     p.mb-4 Este comando crea un arco a partir de un plano de referencia, a través de tres puntos o por medio de geometría existente.
@@ -129,18 +129,18 @@
                   .col-4
                     figure
                       img(src='@/assets/curso/img8.svg', style="width: 200px").m-auto
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Spline studio")
+          .tarjeta.color-acento-botones--borde.p-4(titulo="<i>Spline studio</i>")
             .row
               .col-12
                 .row
-                  .col-4
-                    h4.text-center.text-white.txt-deco3 #[b Spline studio]
+                  .col-8.col-lg-5
+                    h4.text-center.text-white.txt-deco3 #[b #[i Spline studio]]
                   .col-12
                     p.mb-4 Con esta herramienta, se genera una curva 3D en el espacio en forma libre o a través de la sección de geometría existente. Los puntos de control se pueden ajustar de acuerdo con la vista actual.
                 .row.justify-content-center.mb-4
                   .col-lg-9
                     .titulo-sexto.color-acento-contenido
-                      h5 #[span.txt-deco2 Figura 7.] Spline studio
+                      h5 #[span.txt-deco2 Figura 7.] #[i Spline studio]
                     figure
                       img(src='@/assets/curso/img10.png', style="width: 1200px").m-auto
                       figcaption.mt-3.bg-color5 #[b Nota.] Adaptada del sistema CAD NX 12.
@@ -152,10 +152,10 @@
             .row
               .col-12
                 .row
-                  .col-4
+                  .col-8.col-lg-5
                     h4.text-center.text-white.txt-deco3 #[b Curva sobre superficie]
                   .col-12
-                    p.mb-4 El comando crea una curva spline sobre la superficie seleccionada, a través de puntos control.
+                    p.mb-4 El comando crea una curva #[i spline] sobre la superficie seleccionada, a través de puntos control.
                 .row.justify-content-center.mb-4
                   .col-lg-9
                     .titulo-sexto.color-acento-contenido
@@ -167,6 +167,8 @@
                   .col-4
                     figure
                       img(src='@/assets/curso/img8.svg', style="width: 200px").m-auto
+    .row.bg-color12.px-5
+      .col-12
         separador
         #t_1_3
         .titulo-segundo
@@ -230,7 +232,7 @@
                       figcaption.mt-3.bg-color5 #[b Nota.] Adaptada del sistema CAD NX 12.
               .col-lg-4
                 h4 Curva de intersección
-                p.mb-5 El comando crea una curva proyectada sobre una superficie, a partir de la selección de un croquis en 2D que se encuentra en un plano o una curva en el espacio.
+                p.mb-5 Esta herramienta crea una curva en la intersección de un conjunto de superficies o a través de una superficie y un plano de referencia.
                 .row.justify-content-end
                   .col-6
                     img(src='@/assets/curso/img8.svg', style="width: 200px").text-right

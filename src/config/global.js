@@ -35,7 +35,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.2',
-            titulo: 'Comandos de curva',
+            titulo: 'Comandos de curvas',
             hash: 't_1_2',
           },
           {
@@ -123,7 +123,7 @@ export default {
     },
     {
       referencia:
-        'Dep Fab Mecanica Marianao. (2019, noviembre 20). NX Curso drawing y acotado FMC0 M01 [Video]. YouTube. ',
+        'Dep Fab Mecánica Marianao. (2019, noviembre 20). NX Curso <i>drawing</i> y acotado FMC0 M01 [Video]. YouTube. ',
       link: 'https://youtu.be/pFcMlBL5Ps0',
     },
     {
@@ -132,7 +132,7 @@ export default {
     },
     {
       referencia:
-        'Leu, M., Tao, W., Ghazanfari, A. y Kolan, K. (2019). NX 12 for Engineering Design. Missouri University of Science and Technology. ',
+        'Leu, M., Tao, W., Ghazanfari, A. y Kolan, K. (2019). NX 12 <i>for Engineering Design. Missouri University of Science and Technology</i>. ',
       link: 'https://www.academia.edu/37546347/NX_12_for_Engineering_Design',
     },
     {
@@ -142,7 +142,7 @@ export default {
     },
     {
       referencia:
-        'Mundo tutorial / Tutorial world. (2017, octubre 10). Siemens NX. Pieza 3D. Tutorial [Video]. YouTube. ',
+        'Mundo tutorial/Tutorial <i>world</i>. (2017, octubre 10). Siemens NX. Pieza 3D. Tutorial [Video]. YouTube. ',
       link: 'https://youtu.be/UeJ1Yegal9E',
     },
     {
@@ -157,14 +157,14 @@ export default {
     },
     {
       referencia:
-        'Tickoo, S. (2018). Siemens NX 12.0 for Designers. CADCIM Technologies. ',
+        'Tickoo, S. (2018). Siemens NX 12.0 <i>for Designers</i>. CADCIM <i>Technologies</i>. ',
     },
   ],
   glosario: [
     {
       termino: 'CAD/CAM',
       significado:
-        ' CAD CAM es la integración del diseño asistido por ordenador y el software de fabricación asistido por ordenador, con el objetivo de obtener una gestión sencilla de los cambios del diseño, una concepción del diseño simultánea y una configuración del proceso de fabricación flexible, especialmente para el diseño y la fabricación de prototipos y de piezas acabadas.',
+        'es la integración del diseño asistido por ordenador y el <i>software</i> de fabricación asistido por ordenador, con el objetivo de obtener una gestión sencilla de los cambios del diseño, una concepción del diseño simultánea y una configuración del proceso de fabricación flexible, especialmente para el diseño y la fabricación de prototipos y de piezas acabadas.',
     },
     {
       termino: 'CAD',
@@ -181,11 +181,60 @@ export default {
       significado:
         'El <i>software</i> NX es una solución integrada de diseño, ingeniería y fabricación de productos, que ayuda a ofrecer productos innovadores, de forma más rápida y eficiente.',
     },
+    {
+      termino: 'Punto',
+      significado:
+        'Con este comando, se pueden generar puntos en el espacio en forma libre, de acuerdo con la ubicación del cursor, o partir de geometría existente, de acuerdo con las opciones que se muestran en el cuadro de diálogo.',
+    },
+    {
+      termino: 'Arco/círculo',
+      significado:
+        'Este comando crea un arco a partir de un plano de referencia, a través de tres puntos o por medio de geometría existente.',
+    },
+    {
+      termino: 'Curva desfasada',
+      significado:
+        'Crea una curva equidistante a otra, sobre el mismo plano, a una distancia específica.',
+    },
+    {
+      termino: 'Superficie desplazada',
+      significado:
+        'Crea una superficie equidistante a una existente, permitiendo ajustar el valor del desplazamiento.',
+    },
+    {
+      termino: 'Proyectar la curva',
+      significado:
+        'El comando crea una curva sobre una superficie a partir de la selección de un croquis en 2D que se encuentra en un plano o una curva en el espacio.',
+    },
+    {
+      termino: 'Coser',
+      significado:
+        'Este comando permite unir dos o más superficies en una sola.',
+    },
+    {
+      termino: 'Redondeo de cara',
+      significado:
+        'Genera un redondeo entre dos o más superficies, o en la arista de dos superficies combinadas, permitiendo mayor control y libertad en la configuración del redondeo.',
+    },
+    {
+      termino: 'Engrosar',
+      significado:
+        'Con esta herramienta se puede generar un espesor a partir de la selección de una superficie, creando un cuerpo sólido.',
+    },
+    {
+      termino: 'Materiales de objetosar',
+      significado:
+        'Esta herramienta permite asignar materiales a cada una de las superficies o sólidos de un modelo digital.',
+    },
+    {
+      termino: 'Iluminación de la escena',
+      significado: 'Permite ajustar la iluminación de la escena actual.',
+    },
   ],
   complementario: [
     {
       texto:
-        'Tickoo, S. (2018). Siemens NX 12.0 for Designers. CADCIM Technologies.',
+        'Tickoo, S. (2018). Siemens NX 12.0 <i>for Designers</i>. CADCIM <i>Technologies</i>.',
       tipo: 'Libro',
       link:
         'https://www.academia.edu/44135303/Siemens_NX_12_0_for_Designers_11th_Edition_Sham_tickoo',
@@ -197,7 +246,7 @@ export default {
     },
     {
       texto:
-        'Leu, M., Tao, W., Ghazanfari, A. y Kolan, K. (2019). NX 12 for Engineering Design. Missouri University of Science and Technology.',
+        'Leu, M., Tao, W., Ghazanfari, A. y Kolan, K. (2019). NX 12 <i>for Engineering Design. Missouri University of Science and Technology</i>.',
       tipo: 'Capítulo de libro',
       link:
         'https://me5763.github.io/lab/assets/books/NX-12-for-Engineering-Design.pdf',
@@ -216,13 +265,13 @@ export default {
     },
     {
       texto:
-        'Dep Fab Mecanica Marianao. (2019, noviembre 20). NX Curso drawing y acotado FMC0 M01 [Video]. YouTube.',
+        'Dep Fab Mecánica Marianao. (2019, noviembre 20). NX Curso <i>drawing</i> y acotado FMC0 M01 [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://youtu.be/pFcMlBL5Ps0',
     },
     {
       texto:
-        'Mundo tutorial / Tutorial world. (2017, octubre 10). Siemens NX. Pieza 3D. Tutorial [Video]. YouTube.',
+        'Mundo tutorial/Tutorial <i>world</i>. (2017, octubre 10). Siemens NX. Pieza 3D. Tutorial [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://youtu.be/UeJ1Yegal9E',
     },
@@ -244,17 +293,17 @@ export default {
       },
       {
         nombre: 'Oscar Riveros',
-        cargo: 'Experto Temático',
+        cargo: 'Experto temático',
         centro: 'Centro Diseño y Metrología',
       },
       {
         nombre: 'José Eduardo Chaves Peña',
-        cargo: 'Experto Temático',
+        cargo: 'Experto temático',
         centro: 'Centro de Diseño Tecnológico Industrial',
       },
       {
         nombre: 'Carlos Andrés Ossa Jiménez',
-        cargo: 'Experto Temático',
+        cargo: 'Experto temático',
         centro: 'Centro de Diseño Tecnológico Industrial',
       },
       {
@@ -264,7 +313,7 @@ export default {
       },
       {
         nombre: 'Carolina Coca Salazar',
-        cargo: 'Revisora Metodológica y Pedagógica',
+        cargo: 'Revisora metodológica y pedagógica',
         centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
       },
       {
@@ -309,7 +358,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Jhana Johanna Bustillo Ardila',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
