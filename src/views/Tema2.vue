@@ -77,7 +77,7 @@
                   figcaption.mt-3.bg-color5 #[b Nota.] Adaptada del sistema CAD NX 12.
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/iwNay_TU0Ak" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         separador.mb-5
         #t_2_3
         .titulo-segundo
@@ -98,7 +98,7 @@
         p.mb-5 En la siguiente presentación, se describe cada una de ellas y su uso.
         figure.mb-5
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/qnrsU3cJsr0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         TabsC.color-primario
           .py-3.py-md-4(titulo="Superficie desplazada").bg-color7
             .row.align-items-center
