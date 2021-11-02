@@ -10,7 +10,7 @@
             img(src="@/assets/template/emparejamiento.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Actividad didáctica
+          h2 Relacionar correctamente la secuencia de pasos
         p.mb-4 Verificación de saberes adquiridos en el modelado de superficies 3D en forma libre.
         .tarjeta.tarjeta--azul.p-3
           .row.justify-content-around.align-items-center            
