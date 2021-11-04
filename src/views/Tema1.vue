@@ -187,10 +187,10 @@
             figure(data-aos="fade-left")
               img(src='@/assets/curso/img12.png', style="width: 450px").m-auto
         p.mb-5 #[b De igual manera, en las siguientes pestañas se puede ampliar y detallar la información acerca de estas.]
-        TabsC.color-primario
+        TabsC.color-primario.mb-5
           .py-3.py-md-4(titulo="Curva desfasada").bg-color7
-            .row.align-items-center
-              .col-lg-8.mb-4.mb-lg-0
+            .row.align-items-center.justify-content-center
+              .col-11.col-lg-8.mb-4.mb-lg-0
                 .row.justify-content-center
                   .col-lg-9
                     .titulo-sexto.color-acento-contenido
@@ -198,15 +198,15 @@
                     figure
                       img(src='@/assets/curso/img14.png', style="width: 1200px").m-auto
                       figcaption.mt-3.bg-color5 #[b Nota.] Adaptada del sistema CAD NX 12.
-              .col-lg-4
+              .col-11.col-lg-4
                 h4 Curva desfasada
                 p.mb-5 Crea una curva equidistante a otra, sobre el mismo plano, a una distancia específica.
                 .row.justify-content-end
                   .col-6
                     img(src='@/assets/curso/img8.svg', style="width: 200px").text-right
           .py-3.py-md-4(titulo="Proyectar la curva").bg-color7
-            .row.align-items-center
-              .col-lg-8.mb-4.mb-lg-0
+            .row.align-items-center.justify-content-center
+              .col-11.col-lg-8.mb-4.mb-lg-0
                 .row.justify-content-center
                   .col-lg-9
                     .titulo-sexto.color-acento-contenido
@@ -214,15 +214,15 @@
                     figure
                       img(src='@/assets/curso/img15.png', style="width: 1200px").m-auto
                       figcaption.mt-3.bg-color5 #[b Nota.] Adaptada del sistema CAD NX 12.
-              .col-lg-4
+              .col-11.col-lg-4
                 h4 Proyectar la curva
                 p.mb-5 El comando crea una curva proyectada sobre una superficie, a partir de la selección de un croquis en 2D que se encuentra en un plano o una curva en el espacio.
                 .row.justify-content-end
                   .col-6
                     img(src='@/assets/curso/img8.svg', style="width: 200px").text-right
           .py-3.py-md-4(titulo="Curva de intersección").bg-color7
-            .row.align-items-center
-              .col-lg-8.mb-4.mb-lg-0
+            .row.align-items-center.justify-content-center
+              .col-11.col-lg-8.mb-4.mb-lg-0
                 .row.justify-content-center
                   .col-lg-9
                     .titulo-sexto.color-acento-contenido
@@ -230,15 +230,15 @@
                     figure
                       img(src='@/assets/curso/img16.png', style="width: 1200px").m-auto
                       figcaption.mt-3.bg-color5 #[b Nota.] Adaptada del sistema CAD NX 12.
-              .col-lg-4
+              .col-11.col-lg-4
                 h4 Curva de intersección
                 p.mb-5 Esta herramienta crea una curva en la intersección de un conjunto de superficies o a través de una superficie y un plano de referencia.
                 .row.justify-content-end
                   .col-6
                     img(src='@/assets/curso/img8.svg', style="width: 200px").text-right
           .py-3.py-md-4(titulo="Curva desfasada en la cara").bg-color7
-            .row.align-items-center
-              .col-lg-8.mb-4.mb-lg-0
+            .row.align-items-center.justify-content-center
+              .col-11.col-lg-8.mb-4.mb-lg-0
                 .row.justify-content-center
                   .col-lg-9
                     .titulo-sexto.color-acento-contenido
@@ -246,15 +246,15 @@
                     figure
                       img(src='@/assets/curso/img17.png', style="width: 1200px").m-auto
                       figcaption.mt-3.bg-color5 #[b Nota.] Adaptada del sistema CAD NX 12.
-              .col-lg-4
+              .col-11.col-lg-4
                 h4 Curva desfasada en la cara
                 p.mb-5 Este comando permite crear una curva sobre una superficie o plano, en forma equidistante, siempre y cuando se encuentre sobre la superficie.
                 .row.justify-content-end
                   .col-6
                     img(src='@/assets/curso/img8.svg', style="width: 200px").text-right
           .py-3.py-md-4(titulo="Curva compuesta").bg-color7
-            .row.align-items-center
-              .col-lg-8.mb-4.mb-lg-0
+            .row.align-items-center.justify-content-center
+              .col-11.col-lg-8.mb-4.mb-lg-0
                 .row.justify-content-center
                   .col-lg-9
                     .titulo-sexto.color-acento-contenido
@@ -262,15 +262,15 @@
                     figure
                       img(src='@/assets/curso/img18.png', style="width: 1200px").m-auto
                       figcaption.mt-3.bg-color5 #[b Nota.] Adaptada del sistema CAD NX 12.
-              .col-lg-4
+              .col-11.col-lg-4
                 h4 Curva compuesta
                 p.mb-5 Este comando crea una curva a partir de la selección de una arista o curva de una superficie o una curva que se encuentre sobre la superficie.
                 .row.justify-content-end
                   .col-6
                     img(src='@/assets/curso/img8.svg', style="width: 200px").text-right
           .py-3.py-md-4(titulo="Curva combinada").bg-color7
-            .row.align-items-center
-              .col-lg-8.mb-4.mb-lg-0
+            .row.align-items-center.justify-content-center
+              .col-11.col-lg-8.mb-4.mb-lg-0
                 .row.justify-content-center
                   .col-lg-9
                     .titulo-sexto.color-acento-contenido
@@ -278,7 +278,7 @@
                     figure
                       img(src='@/assets/curso/img19.png', style="width: 1200px").m-auto
                       figcaption.mt-3.bg-color5 #[b Nota.] Adaptada del sistema CAD NX 12.
-              .col-lg-4
+              .col-11.col-lg-4
                 h4 Curva combinada
                 p.mb-5 Esta herramienta crea una curva combinando dos curvas que se encuentran en planos diferentes.
                 .row.justify-content-end

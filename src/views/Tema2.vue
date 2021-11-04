@@ -38,17 +38,17 @@
           .col-lg-3.bg-color9.mb-4.mb-lg-0
             figure.mb-4
               img(src='@/assets/curso/img12.svg', style="width: 100px").m-auto
-            h4.text-center GRUPO 1
+            h4.text-center Grupo 1
             p.text-center Se encuentran herramientas superficies de estudio, curvas de paso, barrido, redondeo de cara y redondeo de cara estético.
           .col-lg-3.bg-color10.mb-4.mb-lg-0
             figure.mb-4
               img(src='@/assets/curso/img13.svg', style="width: 100px").m-auto
-            h4.text-center GRUPO 2
+            h4.text-center Grupo 2
             p.text-center Están los comandos para realizar operaciones con las superficies.
           .col-lg-3.bg-color9
             figure.mb-4
               img(src='@/assets/curso/img14.svg', style="width: 100px").m-auto
-            h4.text-center GRUPO 3
+            h4.text-center Grupo 3
             p.text-center Contiene los comandos de edición de las superficies.
         p.mb-5 #[b Dicho lo anterior, se puede detallar en la Figura 18.]
         .row.justify-content-center(data-aos="fade-right")
