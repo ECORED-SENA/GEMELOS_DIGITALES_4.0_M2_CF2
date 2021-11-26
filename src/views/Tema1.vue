@@ -34,7 +34,7 @@
         #t_1_1
         .titulo-segundo
           h2 1.1 Panel de herramientas
-        p.mb-5 #[b El panel de herramientas] contiene los comandos agrupados; #[b #[span.txt-deco2 dentro de las herramientas más importantes], se encuentra coquización directa, que contiene las herramientas para el modelado en 2D; #[span.txt-deco1 a su derecha, está el grupo de curva, conformado por comandos para creación de curvas 3D]; #[span.txt-deco2 seguido de curva derivada y editar curva]]. En la Figura 2, se logra identificar cada uno de los elementos que se han mencionado.
+        p.mb-5 #[b El panel de herramientas] contiene los comandos agrupados; #[b #[span.txt-deco2 dentro de las herramientas más importantes], se encuentra croquización directa, que contiene las herramientas para el modelado en 2D; #[span.txt-deco1 a su derecha, está el grupo de curva, conformado por comandos para creación de curvas 3D]; #[span.txt-deco2 seguido de curva derivada y editar curva]]. En la Figura 2, se logra identificar cada uno de los elementos que se han mencionado.
         .row.justify-content-center(data-aos="fade-left")
           .col-lg-9
             .titulo-sexto.color-acento-contenido

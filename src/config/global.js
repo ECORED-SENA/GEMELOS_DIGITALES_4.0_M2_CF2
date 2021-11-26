@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Modelado de superficies 3D en forma libre',
     descripcionCurso:
-      'Este módulo tiene como objetivo guiar al estudiante en el desarrollo de habilidades y destrezas para la creación de gemelos digitales a través de curvas y superficies de forma libre, mediante el conocimiento y la aplicación del sistema CAD NX. Según Siemens (s. f.), un gemelo digital es una representación virtual de un producto o proceso físico que se utiliza para comprender y predecir las características de rendimiento de su equivalente físico. Los gemelos digitales se utilizan a lo largo de todo el ciclo de vida del producto para simular, predecir y optimizar el producto y el sistema de producción, antes de invertir en prototipos y activos físicos.',
+      'Este componente formativo tiene como objetivo guiar al estudiante en el desarrollo de habilidades y destrezas para la creación de gemelos digitales a través de curvas y superficies de forma libre, mediante el conocimiento y la aplicación del sistema CAD NX. Según Siemens (s. f.), un gemelo digital es una representación virtual de un producto o proceso físico que se utiliza para comprender y predecir las características de rendimiento de su equivalente físico. Los gemelos digitales se utilizan a lo largo de todo el ciclo de vida del producto para simular, predecir y optimizar el producto y el sistema de producción, antes de invertir en prototipos y activos físicos.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
   },
@@ -397,6 +397,11 @@ export default {
     gestoresRepositorio: [
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
+        cargo: 'Validación y vinculación en plataforma LMS',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
+      },
+      {
+        nombre: 'Daniel Felipe Varón Molina',
         cargo: 'Validación y vinculación en plataforma LMS',
         centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },

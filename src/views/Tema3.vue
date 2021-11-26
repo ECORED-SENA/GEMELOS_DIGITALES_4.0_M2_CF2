@@ -16,7 +16,7 @@
                 img(src='@/assets/curso/img33.png', style="width: 320px").m-auto
             .col-lg-8
               .bloque-texto-a__texto.p-4
-                p.mb-0 #[b #[span.txt-deco1 En el panel de sombreado realista]], se encuentran las #[b herramientas que permiten asignar materiales, escenarios, sombras, iluminaciones y reflejos], que dan una #[b #[span.txt-deco2 apariencia real al producto en el proceso de aprobación por el cliente]]. En la Figura 32, se destaca la forma en que se muestra para su utilización.
+                p.mb-0 #[b #[span.txt-deco1 En el panel de sombreado realista]], se encuentran las #[b herramientas que permiten asignar materiales, escenarios, sombras, iluminaciones y reflejos], que dan una #[b #[span.txt-deco2 apariencia real al producto en el proceso de aprobación por el cliente]]. En la Figura 27, se destaca la forma en que se muestra para su utilización.
         .row.justify-content-center.mb-5(data-aos="fade-right")
           .col-lg-9
             .titulo-sexto.color-acento-contenido
